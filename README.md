@@ -22,4 +22,7 @@ For example, "node liri.js movie-this nacho libre"
 Finally, do-what-it-says runs a command from the random.txt file. In its 
 current form, the app will run "spotify-this-song" for the song "I Want it That Way".
 
+Or, to veiw a tutorial, please visit:
+https://youtu.be/wrMlZPComHw
+
 Give it try!
